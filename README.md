@@ -14,3 +14,8 @@ https://docs.google.com/spreadsheets/d/1_7eJDFbuqY_WVFAR1wqRJNfjiSehXFm9TYp_HkoA
 
 https://forms.gle/y5J5Vmo43CjuS4He6
 
+## Docker push steps
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b788a7dd-706e-4cd9-b72e-aaeb57c44c9f" />
+
+
